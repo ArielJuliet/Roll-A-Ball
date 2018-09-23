@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/MiniGame.unity
     guid: 076b8f2891dd845eb9ca8676fec77d79
+  - enabled: 1
+    path: Assets/Roll a ball challenge.unity
+    guid: 179714a9a350847b68c54b553dab4538
